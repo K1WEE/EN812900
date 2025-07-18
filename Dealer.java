@@ -16,6 +16,9 @@ public class Dealer {
         System.out.println("Dealer's name : " + dealer_name);
         System.out.println("Number of Clients : " + num_clients);
         System.out.println("Gender : " + dealer_gender);
+        System.out.println("Dealer's info is processed successfully!");
+        System.out.println("Dealer's info is processed successfully!");
+        System.out.println("Dealer's info is processed successfully!");
     }
 
 }
